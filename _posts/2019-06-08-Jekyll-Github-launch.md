@@ -6,5 +6,5 @@ date: 2019-06-08
 
 
 <figure class="video_container">
-  <iframe src="https://nbviewer.jupyter.org/url/chrisjohnholiday.github.io/Regression%20in%20python%20on%20old%20project.ipynb" width="100%" height="100%" scrolling="yes"> </iframe>
+  <iframe src="https://nbviewer.jupyter.org/url/chrisjohnholiday.github.io/Regression%20in%20python%20on%20old%20project.ipynb" width="100%" height="800px" scrolling="yes"> </iframe>
 </figure>
