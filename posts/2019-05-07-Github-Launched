@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Working with Github and Jekyll"
-date: 2019-05-07
+title: "Simple Regression In Python"
+date: 2019-06-08
 ---
-If you are reading this post the site is not ready.
+[iframe src="https://nbviewer.jupyter.org/url/chrisjohnholiday.github.io/Regression%20in%20python%20on%20old%20project.ipynb" width="100%" same_height_as="window" scrolling="yes"]
